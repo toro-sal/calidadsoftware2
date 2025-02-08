@@ -1,0 +1,299 @@
+
+========================================
+ PyLint Results 
+========================================
+************* Module computeSales
+computeSales.py:26:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:34:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:82:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:85:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:87:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:91:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:99:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:101:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:104:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:113:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:117:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeSales.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.67/10 (previous run: 7.88/10, -0.20)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module computeSales
+computeSales.py:29:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:37:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:79:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:82:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:84:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:88:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:98:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:100:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:103:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:112:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:116:0: C0303: Trailing whitespace (trailing-whitespace)
+computeSales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeSales.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.67/10 (previous run: 7.67/10, +0.00)
+
+
+========================================
+
+
+========================================
+ PyLint Results 
+========================================
+************* Module computeSales
+computeSales.py:106:0: C0304: Final newline missing (missing-final-newline)
+computeSales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeSales.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.59/10 (previous run: 7.92/10, +1.67)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module computeSales.py
+computeSales.py:1:0: F0001: No module named computeSales.py (fatal)
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:108:0: C0303: Trailing whitespace (trailing-whitespace)
+compute_sales.py:109:0: C0304: Final newline missing (missing-final-newline)
+compute_sales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+-----------------------------------
+Your code has been rated at 9.59/10
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:107:0: C0304: Final newline missing (missing-final-newline)
+compute_sales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 9.59/10, +0.14)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:106:0: C0304: Final newline missing (missing-final-newline)
+compute_sales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 9.73/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:106:0: C0304: Final newline missing (missing-final-newline)
+compute_sales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 9.73/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:111:0: C0303: Trailing whitespace (trailing-whitespace)
+compute_sales.py:113:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 9.73/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:115:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 9.73/10, +0.14)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.86/10, +0.14)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:112:10: C0303: Trailing whitespace (trailing-whitespace)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 10.00/10, -0.14)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:112:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 9.86/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:112:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 9.86/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:111:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 9.86/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:112:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 9.86/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module compute_sales
+compute_sales.py:112:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 9.86/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.86/10, +0.14)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+========================================
